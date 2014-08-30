@@ -94,7 +94,7 @@ p {
 }
 .section.hero {
   padding-bottom: 0px;
-  background-image: url('../images/background.jpg');
+  background-image: url('../images/background.png');
   background-size: cover;
 }
 .section.white.subfooter {
