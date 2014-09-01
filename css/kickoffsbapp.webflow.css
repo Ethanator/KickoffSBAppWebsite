@@ -209,13 +209,13 @@ p {
   margin-left: 5px;
   padding-top: 7px;
   border-radius: 60px;
-  background-color: #745785;
+  background-color: #39f;
   -webkit-transition: background-color 300ms ease;
   -o-transition: background-color 300ms ease;
   transition: background-color 300ms ease;
 }
 .social-button:hover {
-  background-color: #f02e4e;
+  background-color: #06b;
 }
 .blog-link {
   -webkit-transition: all 200ms ease;
